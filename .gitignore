@@ -1,0 +1,10 @@
+#pasta trash estaria aqui mas para fins de avaliação ela nao sera removida
+
+# Arquivos de ambiente  salvo no git para fins de avaliação
+#.env.local
+#.env.*.local
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
